@@ -2,7 +2,7 @@ asgiref==3.8.1
 Brotli==1.1.0
 certifi==2025.1.31
 charset-normalizer==3.4.1
-Django==5.1.7
+Django==4.2.20
 idna==3.10
 intel-cmplr-lib-ur==2025.0.5
 intel-openmp==2025.0.5
@@ -17,6 +17,7 @@ pandas==2.2.3
 plotly==6.0.0
 PySocks==1.7.1
 python-dateutil>=2.9.0.post0
+pytz==2025.1
 requests==2.32.3
 six==1.17.0
 sqlparse==0.5.3
