@@ -132,9 +132,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # settings.py
 import os
-from dotenv import load_dotenv
-
-load_dotenv()
 
 AIRTABLE_BASE_ID = os.getenv("AIRTABLE_BASE_ID")
 AIRTABLE_TOKEN = os.getenv("AIRTABLE_TOKEN")
