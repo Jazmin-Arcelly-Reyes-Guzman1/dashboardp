@@ -1,0 +1,26 @@
+asgiref==3.8.1
+Brotli @ file:///C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/work
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1739515848642/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+Django==5.1.7
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+narwhals==1.30.0
+numpy @ file:///C:/b/abs_56qrev29w_/croot/numpy_and_numpy_base_1738155838326/work/dist/numpy-2.2.2-cp310-cp310-win_amd64.whl#sha256=638f78533b4c559d36a26a111866d381ae3d44ba07450691ed7ea4a508e4879d
+packaging==24.2
+pandas==2.2.3
+plotly==6.0.0
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+python-dateutil==2.9.0.post0
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv_1733243180666/work
+pytz==2025.1
+requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
+six==1.17.0
+sqlparse==0.5.3
+tenacity @ file:///C:/b/abs_1749lsqys6/croot/tenacity_1730304400080/work
+typing_extensions==4.12.2
+tzdata==2025.1
+urllib3 @ file:///C:/b/abs_7bst06lizn/croot/urllib3_1737133657081/work
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
